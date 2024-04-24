@@ -1,6 +1,8 @@
-### Hi there :smile:
+### Olá :smile:
 
-Meu nome é Juliana sou uma Programadora Front- End atualmento estou aprendendo e criando projetos com: HTML, CSS e Iniciando o JavaScript.
+Meu nome é Juliana atuei por 5 anos na área administrativa, auxiliando no departamento pessoal, financeiro e RH. E atualmente decidi mudar para área de Tecnologia então iniciei meus estudos no DevClub Curso de FullStack. Hoje além dos conhecimentos técnicos já desenvolvi projetos práticos com HTML, CSS e JavaScript.
+Quero conquistar meu primeiro emprego na área poder contribuir com meus conhecimentos e assim adquirir experiências.
+Sou uma pessoa Comunicativa, Interessada e trabalho bem em grupo.
 
 
 
